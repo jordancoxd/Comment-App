@@ -1,0 +1,14 @@
+
+body {
+	background-color: rgba(82, 78, 78, 0.26);
+}
+
+h1 {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+textarea {
+	border-style: none;
+	border-radius: 4px;
+}
